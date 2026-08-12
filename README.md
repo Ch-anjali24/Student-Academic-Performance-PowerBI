@@ -82,7 +82,7 @@ Provides an overview of:
 
  📸 Dashboard Preview
 
-![Student Academic Performance Dashboard](Dashboard/dashboard_overview.png)
+![Student Academic Performance Dashboard](dashboard_overview.png)
 
 💡 Key Insights
 
